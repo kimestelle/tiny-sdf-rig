@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[52132,["/tiny-sdf-rig/_next/static/chunks/7832a0066d3c9ff7.js"],"default"]
+3:I[70392,["/tiny-sdf-rig/_next/static/chunks/986cfb95258c85e1.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"IZDS_Fz-pkgP6xiMs2eMZ","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex w-screen h-screen items-center justify-center overflow-hidden p-10","children":["$","$L2",null,{}]}],[["$","script","script-0",{"src":"/tiny-sdf-rig/_next/static/chunks/7832a0066d3c9ff7.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

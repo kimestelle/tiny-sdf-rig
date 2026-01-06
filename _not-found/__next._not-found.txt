@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[10293,["/tiny-sdf-rig/_next/static/chunks/986cfb95258c85e1.js"],"default"]
+3:I[11019,["/tiny-sdf-rig/_next/static/chunks/986cfb95258c85e1.js"],"default"]
+0:{"buildId":"IZDS_Fz-pkgP6xiMs2eMZ","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
