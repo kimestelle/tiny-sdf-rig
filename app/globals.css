@@ -1,26 +1,25 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
 
 body {
-  background: var(--background);
-  color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  width: 100svw;
+  height: 100svh;
+  overflow: hidden;
+}
+
+.bg-checkerboard {
+  background-color: white;
+  background: 
+      repeating-conic-gradient(#ffffff87 0 25%, #0000 0 50%);
+  background-size: 50% 50%;
+  border-radius: 0.5svh;
+}
+
+.bg-checkerboard-active {
+  background: 
+      repeating-conic-gradient(#ffffff 0 25%, #0000 0 50%);
+  background-size: 50% 50%;
+  border: 1px solid white;
+  border-radius: 0.5svh;
 }
